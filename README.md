@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About Me
+A young programming enthusiast with a strong passion for Computer Science and Mathematics, aspiring to become a software engineer. I’m constantly working to improve my skills as well as develop new ones, especially through hands-on projects and courses that reflect both my creativity and personal growth. Python is my primary programming language.
 <!--
 **Aayan0207/Aayan0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
