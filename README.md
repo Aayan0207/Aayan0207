@@ -25,7 +25,7 @@ A young programming enthusiast with a strong passion for Computer Science and Ma
 ## Open Source
 
 - [icalendar](https://github.com/collective/icalendar) (Python Library)\
-  Helped with documentation of the string parameter function
+  Helped with documentation of the string_parameter function
   🔗[Link](https://github.com/collective/icalendar/pull/1316)
 
 ## Certifications
